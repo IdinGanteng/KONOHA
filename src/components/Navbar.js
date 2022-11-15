@@ -5,8 +5,8 @@ const Navbar = () => {
     <div>
         <nav>
             <ul>
-                <li><a href='/'>HOME</a></li>
-                <li><a href='/'>PRESTASI</a></li>
+                <li><a href='/'>KONOHA</a></li>
+                <li><a href='/hokage'>HOKAGE</a></li>
                 <li><a href='/'>SUMBER DAYA</a></li>
                 <div className="dropdown">
                 <button className="dropbtn">Golek Liyone
